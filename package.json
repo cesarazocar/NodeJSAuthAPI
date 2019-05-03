@@ -1,0 +1,19 @@
+{
+  "name": "node_login_example",
+  "version": "1.0.0",
+  "description": "\"this project demo how to login / register with MySQL use nodeJS through AndroidApp\"",
+  "main": "index.js",
+  "scripts": {
+    
+    "start":"node index.js"
+  },
+  "author": "CesarAzocar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2"
+  }
+}
